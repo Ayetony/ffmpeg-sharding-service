@@ -1,15 +1,4 @@
-# 项目介绍
-- [项目介绍](#%e9%a1%b9%e7%9b%ae%e4%bb%8b%e7%bb%8d)
-  - 请参考 [FMJ (FFMpeg for Java)](#fmj-ffmpeg-for-java)
-  - [FFMpeg安装](#ffmpeg%e5%ae%89%e8%a3%85)
-    - [Linux](#linux)
-    - [Mac](#mac)
-    - [Windows](#windows)
-  - [具体的ffmpeg命令可以参考下面的文档](#%e5%85%b7%e4%bd%93%e7%9a%84ffmpeg%e5%91%bd%e4%bb%a4%e5%8f%af%e4%bb%a5%e5%8f%82%e8%80%83%e4%b8%8b%e9%9d%a2%e7%9a%84%e6%96%87%e6%a1%a3)
-
-通过Java调用FFMpeg命令的方式来对音视频进行处理（获取信息、截图等等）。
-
-
+## 本项目用于基本的视频切片学习，参考了 fmj 作者代码
 ## FFMpeg安装
 [FFMpeg官网](http://ffmpeg.org/)
 
